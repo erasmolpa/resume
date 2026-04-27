@@ -2,6 +2,11 @@
 📍 Canary Islands, Spain (UTC+0, Remote)  
 🔗 https://www.linkedin.com/in/erasmodominguez/ · https://github.com/erasmolpa  
 
+---
+
+## Staff Platform Engineer
+
+I design and scale internal platforms that turn infrastructure complexity into reliable, self-service systems for engineering teams.
 
 ---
 
@@ -9,41 +14,40 @@
 
 Engineer with 20+ years of experience across software engineering, architecture, and platform engineering.
 
-My career has evolved from backend development into system design, engineering leadership, and platform strategy — always focused on building scalable systems, improving developer experience, and enabling teams to operate effectively at scale.
+My career has evolved from backend development into system design, engineering leadership, and platform strategy. I focus on building scalable systems, improving developer experience, and enabling teams to operate effectively at scale.
 
 ---
 
 ## Key Impact
 
-- Built and evolved platform ecosystems that replace fragmented tooling with **cohesive, scalable systems**
-- Enabled engineering teams through **practical self-service platforms**, not just tooling
-- Turned observability into a **decision-making system**, improving signal quality and cost efficiency
-- Reduced operational complexity by **standardizing workflows, abstractions, and platform interfaces**
-- Applied **software engineering principles to infrastructure**, making systems more predictable, testable, and evolvable
-- Drove **technical decision-making under uncertainty**, balancing pragmatism, scalability, and long-term system evolution
-- Influenced engineering teams through **mentorship, standards, and hands-on guidance**, raising the overall level of execution
+- Built and evolved platform ecosystems that replace fragmented tooling with cohesive, scalable systems  
+- Enabled engineering teams through practical self-service platforms that improve autonomy and delivery speed  
+- Turned observability into a decision-making system, improving signal quality and cost efficiency  
+- Reduced operational complexity by standardizing workflows, abstractions, and platform interfaces  
+- Applied software engineering principles to infrastructure, making systems more predictable and easier to evolve  
+- Drove technical decision-making under uncertainty, balancing pragmatism with long-term system evolution  
+- Influenced engineering teams through mentorship, standards, and hands-on guidance  
 
 ---
 
 ## Core Skills
 
 ### Platform Engineering
-- Internal Developer Platforms (IDP), DevEx, self-service architectures  
+- Internal Developer Platforms, DevEx, self-service architectures  
 - Kubernetes, distributed systems, cloud-native patterns  
-- Observability: OpenTelemetry, Prometheus, Grafana, OpenSearch  
-- SLO/SLI, reliability engineering  
-
+- Observability with OpenTelemetry, Prometheus, Grafana, OpenSearch  
+- SLO/SLI and reliability engineering  
 
 ### Software Engineering
-- Python, Bash, PowerShell, Typescript
+- Python, Bash, PowerShell, TypeScript  
 - API design, internal tooling, system design  
-- Clean Code, TDD  
+- Clean Code and TDD  
 
 ### Engineering Leadership
-- Technical leadership, team enablement, and mentoring  
+- Technical leadership, mentoring, and team enablement  
 - Driving cross-team initiatives and platform adoption  
 - Strategic thinking and decision-making in complex systems  
-- Balancing hands-on engineering with delivery and project responsibilities  
+- Balancing hands-on engineering with delivery responsibilities  
 
 ---
 
@@ -52,33 +56,33 @@ My career has evolved from backend development into system design, engineering l
 ### Schroders — DevOps Toolchain Tech Lead  
 *Sep 2023 – Present*
 
-- Leading the evolution of the internal developer platform toward a **GitOps-driven, self-service architecture**
-- Migrated enterprise tooling (Artifactory, GitHub, CI/CD) to **fully declarative Infrastructure as Code (Terraform + ArgoCD)**
-- Designed and implemented a **Policy-as-Code platform** to enforce governance and security at scale
-- Standardized CI/CD through **reusable workflows**, enabling consistency across hundreds of repositories
-- Improved Developer Experience by abstracting platform complexity into scalable internal solutions  
+- Leading the evolution of the internal developer platform towards a GitOps-driven, self-service model  
+- Migrated enterprise tooling such as Artifactory, GitHub, and CI/CD systems to fully declarative Infrastructure as Code using Terraform and ArgoCD  
+- Designed and implemented a Policy-as-Code platform to enforce governance and security at scale  
+- Standardized CI/CD workflows across the organization, enabling consistency and reuse  
+- Improved developer experience by abstracting platform complexity into scalable internal solutions  
 
 ---
 
 ### Warner Bros Discovery — Staff SRE / Observability Lead  
 *Apr 2021 – Sep 2023*
 
-- Drove the observability strategy, delivering a **unified, self-service platform** for engineering teams across multi-region AWS systems  
-- Platform operated at **~40TB/day log ingestion scale**, supporting high-throughput distributed workloads  
-- Reduced observability cost and noise through **sampling, retention, and architectural optimizations**  
-- Implemented **metrics, tracing, and SLO-driven alerting**, improving system reliability and signal quality  
-- Enabled teams through a **self-service observability model**, increasing autonomy and reducing operational friction  
+- Drove the observability strategy, delivering a unified platform for engineering teams across multi-region AWS systems  
+- Platform operated at a scale of approximately 40TB of logs per day, supporting high-throughput distributed workloads  
+- Reduced observability cost and noise through sampling, retention strategies, and architectural improvements  
+- Implemented metrics, tracing, and SLO-driven alerting to improve reliability and signal quality  
+- Enabled teams through a self-service observability model, increasing autonomy and reducing operational friction  
 
 ---
 
 ### Domingo Alonso Group — SRE Lead & Cloud Architect  
 *May 2019 – Apr 2021*
 
-- Built the company’s **DevOps and SRE foundations from scratch**
-- Designed Kubernetes-based infrastructure and a **cloud-native observability stack**
-- Delivered **Kubernetes as a Service**, enabling product teams to deploy independently  
-- Created internal tooling and automation to improve developer experience  
-- Led organizational transformation toward DevOps and platform thinking  
+- Built the DevOps and SRE foundations from scratch in a legacy-heavy environment  
+- Designed Kubernetes-based infrastructure and a cloud-native observability stack  
+- Delivered Kubernetes as a Service, enabling product teams to deploy independently  
+- Created internal tooling and automation to improve developer workflows  
+- Led the cultural transformation towards DevOps and platform thinking  
 
 ---
 
@@ -86,54 +90,53 @@ My career has evolved from backend development into system design, engineering l
 *Aug 2018 – May 2019*
 
 - Designed a cloud-native banking platform based on microservices and OpenShift  
-- Led a cross-functional team (~15 engineers)  
-- Applied Domain-Driven Design (DDD) to model complex business logic  
-- Built a reusable microservices architecture (service discovery, resilience, observability)  
+- Led a cross-functional team of engineers, working closely with business stakeholders to model complex financial processes  
+- Applied Domain-Driven Design to structure the system and its services  
+- Defined a reusable architecture including service discovery, resilience patterns, and observability  
 
 ---
 
 ### AIDA Software — DevOps / Software Engineer  
 *Dec 2016 – Aug 2018*
 
-- Led the operations team and drove DevOps adoption  
-- Introduced CI/CD pipelines and automation tooling (Jenkins, SonarQube, Nexus)  
+- Led the operations team and helped drive the adoption of DevOps practices across the organization  
+- Introduced CI/CD pipelines and automation tooling to improve delivery processes  
 - Migrated infrastructure and applications to Azure Cloud  
-- Containerized applications and improved deployment processes  
+- Containerized applications and improved deployment consistency  
 
 ---
 
 ### Atos — VP of Engineering  
 *Aug 2015 – Dec 2016*
 
-- Led an engineering organization of 20+ engineers  
-- Managed multiple concurrent projects and teams  
-- Delivered large-scale enterprise systems (e.g., Correos integrations)  
-- Introduced DevOps practices and modern engineering approaches  
+- Led an engineering organization of more than 20 engineers, managing multiple concurrent projects  
+- Delivered large-scale enterprise systems, including complex integrations with external financial and payment platforms  
+- Focused on improving engineering practices, mentoring teams, and introducing early DevOps approaches  
 
 ---
 
 ### Capgemini — Solution Architect  
 *Jun 2014 – Aug 2015*
 
-- Led a team of solution architects building a retail framework for large-scale POS systems  
-- Designed backend architecture using Java, Spring, and enterprise integration patterns  
-- Established CI/CD pipelines and testing practices  
+- Led the design of a retail framework used to standardize interactions between point-of-sale systems and physical devices such as payment terminals  
+- Defined architecture, integration patterns, and development standards used across multiple teams  
+- Established CI/CD practices and improved the overall engineering lifecycle  
 
 ---
 
 ### Mediaresponse Group — Senior Software Engineer / Architect  
 *Feb 2013 – Jun 2014*
 
-- Re-architected campaign distribution platform (Java → PHP/C++)  
-- Built API-based event tracking platform for marketing systems  
-- Designed scalable backend services and integrations  
+- Re-architected a campaign distribution platform, moving from a monolithic Java system to a more scalable architecture  
+- Designed and built an event tracking platform exposed as APIs, used by partner companies to integrate with marketing systems  
+- Worked on backend services and system integrations under high load conditions  
 
 ---
 
 ### Xtremis — Software Developer  
 *Nov 2013 – Jan 2014*
 
-- Developed logistics module for post-election system (Ecuador Government)  
+- Developed a logistics module for a post-election system used by a national government  
 - Built backend services using Java and Spring  
 
 ---
@@ -141,18 +144,18 @@ My career has evolved from backend development into system design, engineering l
 ### IKEA IT — Software Developer (Java / PHP)  
 *May 2008 – Jul 2013*
 
-- Developed and maintained ERP systems  
-- Designed modules for customer services, warehouse, and invoicing  
-- Built integrations and services layer for external systems  
-- Worked across backend, database, and operations  
+- Worked on large-scale ERP systems, contributing across backend, database, and integration layers  
+- Designed modules for customer services, warehouse, and invoicing systems  
+- Built integrations and services used by external partners  
+- Gained strong experience in production systems requiring reliability and deep business understanding  
 
 ---
 
 ### Atlantic Consultores — Software Developer  
 *Jan 2004 – Jul 2006*
 
-- Developed web applications (PHP, JavaScript, HTML)  
-- Built booking systems, corporate websites, and custom solutions  
+- Developed web applications and custom solutions for different clients  
+- Worked across frontend and backend, building booking systems, corporate websites, and business applications  
 
 ---
 
