@@ -5,15 +5,9 @@
 
 ---
 
-## Staff Platform Engineer
-
-I design and scale internal platforms that turn infrastructure complexity into reliable, self-service systems for engineering teams.
-
----
-
 ## Profile
 
-Staff-level engineer with 20+ years of experience building distributed systems, internal platforms, and cloud-native infrastructure.
+Engineer with 20+ years of experience building distributed systems, internal platforms, and cloud-native infrastructure.
 
 I specialize in evolving organizations from fragmented DevOps practices into platform-driven ecosystems that improve developer experience, reduce operational overhead, and enable scalable, reliable delivery.
 
