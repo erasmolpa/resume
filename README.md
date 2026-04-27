@@ -41,15 +41,15 @@ My approach combines software engineering discipline, SRE principles, and pragma
 - Observability: OpenTelemetry, Grafana Stack
 - SLO/SLI, reliability engineering  
 
-### Infrastructure & DevOps
-- AWS, Azure  
-- Terraform, Helm, ArgoCD  
-- CI/CD: GitHub Actions, Azure DevOps  
-
 ### Software Engineering
 - Python, Bash, PowerShell, Typescript
 - API design, internal tooling, system design  
 - Clean Code, TDD  
+
+### Engineering Leadership
+- Technical leadership, team enablement, and mentoring  
+- Strategic thinking and decision-making in complex systems  
+- Balancing hands-on engineering with project and delivery responsibilities
 
 ---
 
