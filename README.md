@@ -1,123 +1,111 @@
 # Erasmo Domínguez  
-📍 Gran Canaria 🌴 (Canary Islands), Spain · UTC+0  
-[LinkedIn](https://www.linkedin.com/in/erasmodominguez/) · [GitHub](https://github.com/erasmolpa) · [Substack](https://erasmodominguez.substack.com)
+📍 Canary Islands, Spain (UTC+0, Remote)  
+🔗 https://www.linkedin.com/in/erasmodominguez  
+🔗 https://github.com/erasmolpa
 
 ---
 
-## 🧭 Headline
+## Staff Platform Engineer
 
-**Staff Platform Engineer**  
-*I design and scale internal platforms that turn infrastructure complexity into reliable, self-service systems for engineering teams.*
-
----
-
-## ⚡ Impact Areas
-
-- Infrastructure evolves from manual and fragmented setups to scalable, GitOps-driven platforms  
-- Engineering teams gain self-service capabilities and improved autonomy  
-- Observability becomes more cost-efficient, actionable, and aligned with real system behavior  
-- Reliability improves through SLO/SLI-driven practices and clearer alerting signals  
+I design and scale internal platforms that turn infrastructure complexity into reliable, self-service systems for engineering teams.
 
 ---
 
-## 🧠 Profile
+## Profile
 
-Engineering leader with 20+ years of experience building distributed systems, internal platforms, and cloud-native infrastructure.
+Staff-level engineer with 20+ years of experience building distributed systems, internal platforms, and cloud-native infrastructure.
 
-I specialize in designing and evolving platform ecosystems that improve developer experience, reduce operational overhead, and enable teams to move faster without compromising reliability.
+I specialize in evolving organizations from fragmented DevOps practices into platform-driven ecosystems that improve developer experience, reduce operational overhead, and enable scalable, reliable delivery.
 
-My approach combines software engineering principles, SRE practices, and pragmatic decision-making, focusing on long-term scalability over short-term fixes.
+My approach combines software engineering discipline, SRE principles, and pragmatic decision-making, focusing on long-term system evolution over short-term fixes.
 
 ---
 
-## 🛠️ Core Skills
+## Key Impact
 
-### 🧱 Platform Engineering
-- Platform design, DevEx, self-service architectures  
+- Built and evolved platform ecosystems that replace fragmented tooling with **cohesive, scalable systems**
+- Enabled engineering teams through **practical self-service platforms**, not just tooling
+- Turned observability into a **decision-making system**, improving signal quality and cost efficiency
+- Reduced operational complexity by **standardizing workflows, abstractions, and platform interfaces**
+- Applied **software engineering principles to infrastructure**, making systems more predictable, testable, and evolvable
+- Drove **technical decision-making under uncertainty**, balancing pragmatism, scalability, and long-term system evolution
+- Influenced engineering teams through **mentorship, standards, and hands-on guidance**, raising the overall level of execution
+
+---
+
+## Core Skills
+
+### Platform Engineering
+- Internal Developer Platforms (IDP), DevEx, self-service architectures  
 - Kubernetes, distributed systems, cloud-native patterns  
-- Observability (OpenTelemetry, Prometheus, Grafana, OpenSearch)  
+- Observability: OpenTelemetry, Grafana Stack
 - SLO/SLI, reliability engineering  
 
----
-
-### ⚙️ Infrastructure & DevOps
+### Infrastructure & DevOps
 - AWS, Azure  
-- Terraform, Terragrunt, Helm, ArgoCD, FluxCD  
-- CI/CD (GitHub Actions, Azure DevOps, Jenkins)  
+- Terraform, Helm, ArgoCD  
+- CI/CD: GitHub Actions, Azure DevOps  
+
+### Software Engineering
+- Python, Bash, PowerShell, Typescript
+- API design, internal tooling, system design  
+- Clean Code, TDD  
 
 ---
 
-### 💻 Software Engineering
-- Python, Go, Bash, PowerShell  
-- Clean Code, TDD, system design  
-- Experience building APIs and internal tooling  
-
----
-
-## 👣 Experience
+## Experience
 
 ### Schroders — DevOps Toolchain Tech Lead  
 *Sep 2023 – Present*
 
-- Leading the evolution of the internal developer platform toward a GitOps-driven, self-service model  
-- Migrated enterprise tooling (Artifactory, CI/CD, GitHub) to Infrastructure as Code (Terraform + ArgoCD)  
-- Reduced operational overhead and improved deployment consistency across teams  
-- Designed and implemented Policy as Code to enforce governance and security at scale  
-- Improved Developer Experience through reusable workflows and platform standardization  
+- Leading the evolution of the internal developer platform toward a **GitOps-driven, self-service architecture**
+- Migrated enterprise tooling (Artifactory, GitHub, CI/CD) to **fully declarative Infrastructure as Code (Terraform + ArgoCD)**
+- Designed and implemented a **Policy-as-Code platform** to enforce governance and security at scale
+- Standardized CI/CD through **reusable workflows**, enabling consistency across hundreds of repositories
+- Improved Developer Experience by abstracting platform complexity into scalable internal solutions  
 
 ---
 
 ### Warner Bros Discovery — Staff SRE / Observability Lead  
 *Apr 2021 – Sep 2023*
 
-- Led the platform responsible for centralized logging, ingesting ~20TB/day across multi-region AWS systems  
-- Reduced observability costs and noise through sampling and retention strategies  
-- Improved system reliability via metrics, tracing, and SLO-based alerting  
-- Enabled multiple teams with a scalable, self-service observability platform  
+- Drove the observability strategy, delivering a **unified, self-service platform** for engineering teams across multi-region AWS systems  
+- Platform operated at **~40TB/day log ingestion scale**, supporting high-throughput distributed workloads  
+- Reduced observability cost and noise through **sampling, retention, and architectural optimizations**  
+- Implemented **metrics, tracing, and SLO-driven alerting**, improving system reliability and signal quality  
+- Enabled teams through a **self-service observability model**, increasing autonomy and reducing operational friction  
 
 ---
 
 ### Domingo Alonso Group — SRE Lead & Cloud Architect  
 *2019 – 2021*
 
-- Built the company’s DevOps/SRE and platform foundations from scratch  
-- Designed Kubernetes-based infrastructure and observability stack  
-- Enabled teams through internal tooling and automation  
-- Led cultural transformation toward DevOps and platform thinking  
+- Built the company’s **DevOps and SRE foundations from scratch**
+- Designed Kubernetes-based infrastructure and a **cloud-native observability stack**
+- Delivered **Kubernetes as a Service**, enabling product teams to deploy independently  
+- Created internal tooling and automation to improve developer experience  
+- Led organizational transformation toward DevOps and platform thinking  
 
 ---
 
-### Previous Experience
+### Previous Experience — Software Architecture & Engineering Leadership
 
-**Software Architect / Engineering Manager / Developer**  
-Atos · Capgemini · IKEA IT · AIDA · others
+Started as a backend engineer and evolved into software architecture and engineering leadership roles, building a strong foundation in distributed systems, system design, and platform thinking across companies such as Atos, Capgemini, IKEA IT, and AIDA.
 
-- Led engineering teams (5–20+ people)  
-- Designed distributed systems and enterprise platforms  
-- Strong background in backend engineering and microservices  
-
----
-
-## 🧪 Interests & Focus Areas
-
-- Deep Learning and Machine Learning fundamentals  
-- Hybrid training approaches (combining theory with practical systems)  
-- Systems thinking and platform design patterns  
-- Continuous learning in distributed systems and reliability engineering  
-- Improving as a parent and balancing professional growth with family life  
+- Led engineering teams and delivered complex enterprise systems across multiple domains  
+- Designed scalable backend systems and distributed architectures in production environments  
+- Built a strong foundation in system design, software engineering, and technical leadership  
 
 ---
 
-## 🧪 Side Projects
+## Side Projects
 
 **erasmo-dominguez-stuff (GitHub)**  
 Public lab for platform engineering, observability, and systems thinking  
 
-👉 https://github.com/erasmo-dominguez-stuff  
-
 ---
 
-## 💬 Languages
+## Languages
 
 - Spanish: Native  
-- English: Professional working proficiency  
+- English: Professional working proficiency (B2+)  
